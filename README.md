@@ -2,7 +2,4 @@
 
 📥 express-async-middleware
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦄
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nStay curious. Keep learning. Keep growing.\n🦄\n<!-- INSPIRATIONAL_QUOTE_END -->
