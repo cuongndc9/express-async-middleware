@@ -4,5 +4,5 @@
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->
